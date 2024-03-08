@@ -1,0 +1,13 @@
+.bg {
+  background: rgb(243, 111, 33);
+  background: linear-gradient(
+    45deg,
+    rgba(243, 111, 33, 1) 0%,
+    rgba(2, 37, 97, 1) 62%
+  );
+}
+
+.Close:hover {
+  color: red !important;
+  cursor: pointer;
+}
